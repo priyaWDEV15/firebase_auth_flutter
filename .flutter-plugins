@@ -1,0 +1,9 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/priya987321/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-2.5.0/
+cloud_firestore_web=/home/priya987321/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-2.4.0/
+firebase_auth=/home/priya987321/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.0.2/
+firebase_auth_web=/home/priya987321/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.0.1/
+firebase_core=/home/priya987321/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.5.0/
+firebase_core_web=/home/priya987321/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.1.0/
+google_sign_in=/home/priya987321/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.0.7/
+google_sign_in_web=/home/priya987321/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+2/
